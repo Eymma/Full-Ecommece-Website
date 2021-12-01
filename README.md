@@ -1,6 +1,7 @@
-Muzuro Ecommerce System (M.E.S) project.
+E-commerce website project.
 <ol>
     <li>To set this web application, make sure PHP and PHPMyAdmin is installed on your server.</li>
+    <li>Apache's Xampp be installed on your local machine and running.</li>
     <li>Next open PHPMyAdmin, create a database and import the ecom_db.sql file. This will generate tables in your database on your server.</li>
 <li>Upload all files on your server except for ecom_db.sql!</li> 
 <li>The admin user which I have made has an email id ashley2@personal.com / tendai@business.com(admin) and the password is 1234. (Please confirm this in db or create one manually.)</li>
